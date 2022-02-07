@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="wordle_ans"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wordle_ans">
+				<Option output="/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/wordle_ans" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 wordle_ans"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wordle_ans/fast">
+				<Option output="/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/wordle_ans" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 wordle_ans/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/tyleryeh/CLionProjects/wordle_ans/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tyleryeh/CLionProjects/wordle_ans/main.c">
+			<Option target="wordle_ans"/>
+		</Unit>
+		<Unit filename="/Users/tyleryeh/CLionProjects/wordle_ans/wordle.c">
+			<Option target="wordle_ans"/>
+		</Unit>
+		<Unit filename="/Users/tyleryeh/CLionProjects/wordle_ans/wordle.h">
+			<Option target="wordle_ans"/>
+		</Unit>
+		<Unit filename="/Users/tyleryeh/CLionProjects/wordle_ans/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

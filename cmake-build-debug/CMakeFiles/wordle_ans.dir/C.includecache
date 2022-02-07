@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tyleryeh/CLionProjects/wordle_ans/main.c
+stdio.h
+-
+stdint.h
+-
+wordle.h
+/Users/tyleryeh/CLionProjects/wordle_ans/wordle.h
+
+/Users/tyleryeh/CLionProjects/wordle_ans/wordle.h
+stdint.h
+-
+
